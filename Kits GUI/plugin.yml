@@ -1,0 +1,12 @@
+name: Kits
+version: 1.0.0
+description: Pre-release of Kits
+author: bartboy8
+main: bartboy8.kgui.main.Main
+commands:
+  kits:
+    description: fucks shit up
+  test:
+    description: fucks shit up
+  test2:
+    description: fucks shit up
